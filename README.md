@@ -1,0 +1,2 @@
+# Palantir
+Palantir Ltd,,,,
